@@ -1,3 +1,5 @@
+package src;
+
 public class stea {
     public static void main(String[] args) {
         int poz;
